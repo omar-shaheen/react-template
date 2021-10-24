@@ -1,0 +1,99 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eveniet impedit debitis fugiat enim consequuntur laudantium temporibus fugit tenetur id, voluptatem qui tempora quaerat nostrum ut nam. Sapiente, odit earum."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eveniet impedit debitis fugiat enim consequuntur laudantium temporibus fugit tenetur id, voluptatem qui tempora quaerat nostrum ut nam. Sapiente, odit earum."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eveniet impedit debitis fugiat enim consequuntur laudantium temporibus fugit tenetur id, voluptatem qui tempora quaerat nostrum ut nam. Sapiente, odit earum."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/images/portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/portfolio/portfolio-img7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/portfolio/portfolio-img8.jpg"
+    }
+  ],
+
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-facebook-f fa-lg",
+      "title": "Follow Me On",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-twitter fa-lg",
+      "title": "Tweet Me On",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-pinterest fa-lg",
+      "title": "Pin Me On",
+      "body": "Social Pinterest"
+    }
+  ],
+
+  "skills": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "titlePerc": "100%",
+      "percent": "100%"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "titlePerc": "90%",
+      "percent": "90%"
+    },
+    {
+      "id": 3,
+      "title": "Bootstrap",
+      "titlePerc": "80%",
+      "percent": "80%"
+    }
+  ]
+}
